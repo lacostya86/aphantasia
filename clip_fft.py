@@ -9,7 +9,7 @@ from googletrans import Translator, constants
 
 import pywt
 from pytorch_wavelets import DWTForward, DWTInverse
-# from pytorch_wavelets import DTCWTForward, DTCWTInverse
+from pytorch_wavelets import DTCWTForward, DTCWTInverse
 
 import torch
 import torchvision
